@@ -8,6 +8,10 @@
     <artifactId>programming_scala</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <build>
+        <sourceDirectory>src/main/scala</sourceDirectory>
+    </build>
+
     <dependencies>
         <dependency>
             <groupId>com.typesafe.akka</groupId>
